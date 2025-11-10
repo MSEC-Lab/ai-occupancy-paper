@@ -13,7 +13,7 @@ The image processing described in the paper follows [this notebook](https://gith
 
 ## Data analysis
 
-* [Guatemala_MSOM.R](Guatemala_MSOM.R): runs the Bayesian multi-species occupancy model with covariates for the Guatemala study area
-* [Montana_MSOM.R](Montana_MSOM.R): runs the Bayesian multi-species occupancy model with covariates for the Montana study area
-* [Washington_MSOM.R](Washington_MSOM.R): runs the Bayesian multi-species occupancy model with covariates for the Washington study area
-* [Spatial_projection.R](Spatial_projection.R): projects occupancy model across each study area for AI and expert MSOMs, and calculates "difference" maps
+* [Guatemala_MSOM.R](Guatemala_MSOM.R) runs the Bayesian multi-species occupancy model with covariates for the Guatemala study area.
+* [Montana_MSOM.R](Montana_MSOM.R) runs the Bayesian multi-species occupancy model with covariates for the Montana study area.
+* [Washington_MSOM.R](Washington_MSOM.R) runs the Bayesian multi-species occupancy model with covariates for the Washington study area.
+* [Spatial_projection.R](Spatial_projection.R) projects occupancy model across each study area for AI and expert MSOMs, and calculates "difference" maps.
