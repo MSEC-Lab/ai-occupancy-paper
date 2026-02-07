@@ -1,6 +1,6 @@
 # Overview
 
-This repository contains supplementary code for the paper "Review of camera trap images by experts and artificial intelligence yield similar multi-species occupancy models".
+This repository contains supplementary code for the paper "Rapid ecological inference for megadiverse communities: Identification of camera trap images by artificial intelligence and human experts produce similar multi-species occupancy models".
 
 ## Image processing
 
@@ -17,3 +17,4 @@ The image processing described in the paper follows [this notebook](https://gith
 * [Montana_MSOM.R](Montana_MSOM.R) runs the Bayesian multi-species occupancy model with covariates for the Montana study area.
 * [Washington_MSOM.R](Washington_MSOM.R) runs the Bayesian multi-species occupancy model with covariates for the Washington study area.
 * [Spatial_projection.R](Spatial_projection.R) projects occupancy model across each study area for AI and expert MSOMs, and calculates "difference" maps.
+
