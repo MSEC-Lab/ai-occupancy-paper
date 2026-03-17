@@ -18,3 +18,6 @@ The image processing described in the paper follows [this notebook](https://gith
 * [Washington_MSOM.R](Washington_MSOM.R) runs the Bayesian multi-species occupancy model with covariates for the Washington study area.
 * [Spatial_projection.R](Spatial_projection.R) projects occupancy model across each study area for AI and expert MSOMs, and calculates "difference" maps.
 
+## Data availability
+
+A subset of the images used for this paper are available as the "[WSU Lynx](https://lila.science/datasets/wsu-lynx/)" dataset on [LILA BC](https://lila.science).
